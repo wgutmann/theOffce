@@ -8,7 +8,7 @@
 		$db_database = "OFFICE";
 		$db_username = "root";
 		$db_password = "bandages";
-
+		//bullshit comment
 		require_once('episodeClass.php');
 		//global variable declaration
 		$seasonQuery = NULL;
